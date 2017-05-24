@@ -15,7 +15,7 @@ int max_of_four(int a, int b, int c, int d){
   int largest;
   int swap;
     
-//Find largest number by using bubble sort 
+//My program finds the largest number by using bubble sort 
  for(int i=0;i<4;i++){
       
       for(int x=0;x<3;x++){
